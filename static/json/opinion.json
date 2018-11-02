@@ -1,0 +1,51 @@
+{
+    "title": "审批历史", 
+    "opinionList": [
+        
+           
+                {
+                    "taskName": "发起人提交运营准备申请", 
+                    "approvalResult": "提交", 
+                    "opinion": "同意",
+                    "completeDeptCname": "信托投资银行二部",
+                    "completerFullname": "谢杰严",
+                    "endTime": "2017/05/09"
+                    
+                }, 
+                {
+                    "taskName": "发起人提交运营准备申请", 
+                    "approvalResult": "提交", 
+                    "opinion": "同意",
+                    "completeDeptCname": "信托投资银行二部",
+                    "completerFullname": "王严严",
+                    "endTime": "2017/05/10"
+                }, 
+                {
+                    "taskName": "发起人提交运营准备申请", 
+                    "approvalResult": "提交", 
+                    "opinion": "同意",
+                    "completeDeptCname": "信托投资银行二部",
+                    "completerFullname": "张杰严",
+                    "endTime": "2017/05/09"
+                }, 
+                {
+                    "taskName": "发起人提交运营准备申请", 
+                    "approvalResult": "提交", 
+                    "opinion": "同意",
+                    "completeDeptCname": "信托投资银行二部",
+                    "completerFullname": "户杰严",
+                    "endTime": "2017/05/09"
+                }, 
+                {
+                    "taskName": "发起人提交运营准备申请", 
+                    "approvalResult": "提交", 
+                    "opinion": "同意",
+                    "completeDeptCname": "信托投资银行二部",
+                    "completerFullname": "谢杰严",
+                    "endTime": "2017/05/09"
+                }
+          
+      
+       
+    ]
+}

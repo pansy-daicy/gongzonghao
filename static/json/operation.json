@@ -1,0 +1,47 @@
+{
+    "msg": "", 
+    "msgKey": "", 
+    "detailMsg": "", 
+    "status": 0, 
+    "traceId": "ac1e0ded15366446240910000000b", 
+    "attr": {
+        "aprovalName": "", 
+        "processInstanceId": "419fe650-b566-11e8-b440-28f10e21d739", 
+        "buttons": {}, 
+        "aprovalDept": "D014", 
+        "aprovalTime": "2018-09-11 13:43:44", 
+        "restStatus": 1, 
+        "ifShowAssignee": "Post", 
+        "urlAdress": "http://172.30.13.237:8080/hbtrust-bpm/service", 
+        "nextParticipantPost": "1013", 
+        "aprovalDeptName": "机构金融一部", 
+        "httpStatus": 200, 
+        "__version__": "1.0", 
+        "aprovalId": "nameless", 
+        "taskId": "42917271-b566-11e8-b440-28f10e21d739"
+    }, 
+    "blocks": {
+        "user": {
+            "meta": {
+                "columns": [
+                    {
+                        "name": "userId", 
+                        "descName": " ", 
+                        "pos": 0
+                    }, 
+                    {
+                        "name": "userName", 
+                        "descName": " ", 
+                        "pos": 1
+                    }
+                ]
+            }, 
+            "rows": [
+                [
+                    "huang_zhuoli", 
+                    "huang_zhuoli-黄卓立"
+                ]
+            ]
+        }
+    }
+}
